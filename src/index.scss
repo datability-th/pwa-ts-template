@@ -1,0 +1,16 @@
+@import './normalize.scss'; /* bring in normalize.css styles */
+
+/* This is Recommended reset from CRA from https://create-react-app.dev/docs/adding-css-reset */
+
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    // font-weight: 100;
+}
+
+a {
+    text-decoration: none;
+}
