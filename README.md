@@ -3,7 +3,9 @@ Template of PWA and TS to clone and start with company's practices.
 
 # Steps to use this repository
 1. Copy the Repository to a desired project name that corresponds to the new git you made  
-`$ cp -R pwa-ts-template/ rtaf-hr-p1`
+```
+$ cp -R pwa-ts-template/ rtaf-hr-p1
+```
 
 2. Remove any leftover git from the project  
 ```
